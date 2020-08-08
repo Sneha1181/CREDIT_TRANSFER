@@ -1,0 +1,29 @@
+body, html {
+  height: 100%;
+}
+
+.bg { 
+ 
+  background-image: url("BG1.jpg");
+
+ 
+  height: 100%; 
+
+ 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header img {
+  float: left;
+  width: 130px;
+  height: 130px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
